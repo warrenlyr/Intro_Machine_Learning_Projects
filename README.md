@@ -1,6 +1,12 @@
-# uo-cis471-w21
+# Intro_Machine_Learning_Projects
 * Warren Liu
-* University of Oregon, Winter 2021
 * CIS 471: Machine Learning
-* Projects
-* Descriptions are under each folder
+* Each project's folder contains each one's description
+
+## Learning Objectives
+
+The learning objectives of this course are:
+
+- to understand basic concepts and methods in Artificial Intelligence.
+- to apply these AI-based methods for solving different problems.
+
